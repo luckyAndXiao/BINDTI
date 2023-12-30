@@ -1,6 +1,6 @@
 ##Format:
-\[S \in {\mathbb{R}^{{N_{train}} \times {N_{test}}}}\]
+
 |       | test | 0 |
 | :-----| ----: | :----: |
-| train | 0 |  |
-| 0 |  |  |
+| train | 0.5 |0.3  |
+| 0 | 1 | 0.2 |
