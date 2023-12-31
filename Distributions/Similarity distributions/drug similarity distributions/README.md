@@ -1,5 +1,5 @@
 ### Note：
-Since the files are too large to upload to github, we provide the results for only one dataset on github. All other data are provided in the following two ways:
+Since the files are too large to upload to github, we have only made the results of one dataset available on github. All other data are available in both of the following ways:
 
 * [Baidu online disk](https://pan.baidu.com/s/1zpopYHz8gJoA_TpDZlbFDg?pwd=44pg)
 
